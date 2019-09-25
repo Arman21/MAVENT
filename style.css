@@ -5,7 +5,9 @@
 *.active,*:focus {
     outline-style:none !important;
 }
-
+html {
+    scroll-behavior:smooth;
+}
 .first-block {
     max-width:100%;
     padding:0 !important;
